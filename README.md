@@ -17,7 +17,7 @@
 <br clear="both">
 
 <div align="left" style="width: 130px;">
-  <button style="background-color: green; border: 2px solid black; color: white;">Bank App</button>
+  <a href="https://example.com" style="display: inline-block; background-color: green; border: 2px solid black; color: white; padding: 10px 20px; text-align: center; text-decoration: none; border-radius: 5px;">Bank App</a>
 </div>
 
 
