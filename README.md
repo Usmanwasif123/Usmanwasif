@@ -13,7 +13,7 @@
 <h2 align="left">Frontend Projects</h2>
 <div align="left" style="width: 130px;">
   <a href='https://banking-app-with-finance-managemanet-dashboard.vercel.app/'>
-    <img src="https://img.shields.io/badge/Bank_App-28a745?style=for-the-badge&logo=money&logoColor=white" alt='Gmail'/>
+    <img src="https://img.shields.io/badge/Bank_App-28a745?style=for-the-badge&logo=money&logoColor=white" alt='Bank'/>
   </a>
 </div>
 
@@ -52,7 +52,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
 </div>
@@ -185,12 +185,12 @@
 
 ###
 
-<div align="left" style="width: 130px;">
-  <a href='https://banking-app-with-finance-managemanet-dashboard.vercel.app/'>
-    <img src="https://img.shields.io/badge/Bank_App-28a745?style=for-the-badge&logo=money&logoColor=white" alt='Gmail'/>
+<div align="center" style="width: 130px;">
+  <a href='https://www.linkedin.com/in/usman-w-anwar-800b8718b/'>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt='Linkedin'/>
   </a>
-   <a href='https://banking-app-with-finance-managemanet-dashboard.vercel.app/'>
-    <img src="https://img.shields.io/badge/Bank_App-28a745?style=for-the-badge&logo=money&logoColor=white" alt='Gmail'/>
+   <a href='https://x.com/usmanwasif9'>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt='Twitter'/>
   </a>
 </div>
 
