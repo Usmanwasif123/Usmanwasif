@@ -19,7 +19,9 @@
 <div align="left">
   <span>
   <a href=''>
-    <div style="background-color:'#0a0a23'; width: 130px;"><button class="msgBtn">Bank  App</button></div>
+    <div style="width: 130px;">
+  <button style="background-color: green; border: 2px solid black; color: white;">Bank App</button>
+  </div>
   </a>
 </span>
 </div>
