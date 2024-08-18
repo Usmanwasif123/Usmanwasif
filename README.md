@@ -12,7 +12,7 @@
 
 <h2 align="left">Frontend Projects</h2>
 <div align="left" style="width: 130px;">
-  <a href='' >
+  <a href='https://banking-app-with-finance-managemanet-dashboard.vercel.app/'>
     <img src="https://img.shields.io/badge/Bank_App-28a745?style=for-the-badge&logo=money&logoColor=white" alt='Gmail'/>
   </a>
 </div>
@@ -185,9 +185,13 @@
 
 ###
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+<div align="left" style="width: 130px;">
+  <a href='https://banking-app-with-finance-managemanet-dashboard.vercel.app/'>
+    <img src="https://img.shields.io/badge/Bank_App-28a745?style=for-the-badge&logo=money&logoColor=white" alt='Gmail'/>
+  </a>
+   <a href='https://banking-app-with-finance-managemanet-dashboard.vercel.app/'>
+    <img src="https://img.shields.io/badge/Bank_App-28a745?style=for-the-badge&logo=money&logoColor=white" alt='Gmail'/>
+  </a>
 </div>
 
 ###
