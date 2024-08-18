@@ -13,7 +13,7 @@
 <h2 align="left">Frontend Projects</h2>
 <div align="left" style="width: 130px;">
   <a href='' >
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt='Gmail'/>
+    <img src="https://img.shields.io/badge/Bank_App-Ready-28a745?style=for-the-badge&logo=money&logoColor=white" alt='Gmail'/>
   </a>
 </div>
 
