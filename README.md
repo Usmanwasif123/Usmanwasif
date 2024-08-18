@@ -12,10 +12,9 @@
 
 <h2 align="left">Frontend Projects</h2>
 <div align="left" style="width: 130px;">
-  [<a href="https://banking-app-with-finance-management-dashboard.vercel.app/" 
-     style="display: inline-block; background-color: green; border: 2px solid black; color: white; padding: 10px 20px; text-align: center; text-decoration: none; border-radius: 5px;">
-     Bank App
-  </a>](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+  <a href='' >
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt='Gmail'/>
+  </a>
 </div>
 
 
