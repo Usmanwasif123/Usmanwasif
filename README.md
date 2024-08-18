@@ -17,10 +17,9 @@
 <br clear="both">
 
 <div align="left">
-  <img height="50" src="https://i.ibb.co/hL75qcd/image.png"  />
   <span>
   <a href=''>
-    <div style="background-color:'#0a0a23'; width: 130px;"><button class="msgBtn">Bank  App</button>
+    <div style="background-color:'#0a0a23'; width: 130px;"><button class="msgBtn">Bank  App</button></div>
   </a>
 </span>
 </div>
